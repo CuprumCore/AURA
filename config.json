@@ -1,0 +1,9 @@
+{
+    "chat_model": "qwen2.5:3b",
+    "vision_model": "qwen2.5vl:3b",
+    "keep_alive": "30m",
+    "num_predict": 256,
+    "num_ctx": 2048,
+    "auto_pull_models": true,
+    "language": "auto"
+}
