@@ -26,7 +26,7 @@ Personal local AI assistant with Russian and English support.
 
 ### 🚀 Быстрая установка
 
-#### Способ 1 — автоматический (рекомендуется)
+#### Способ 1 - автоматический (рекомендуется)
 
 1. **Скачай проект** - кнопка **Code → Download ZIP**, распакуй
 2. **Запусти `install.bat`** двойным кликом  
@@ -38,7 +38,7 @@ Personal local AI assistant with Russian and English support.
    - Создаст ярлык **AURA** на рабочем столе
 3. **Запускай через ярлык AURA** на рабочем столе
 
-#### Способ 2 — вручную
+#### Способ 2 - вручную
 
 ```bash
 pip install -r requirements.txt
